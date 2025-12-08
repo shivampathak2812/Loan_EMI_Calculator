@@ -15,9 +15,9 @@ This project calculates the EMI (Equated Monthly Installment), generates a full 
 ## **Project Structure**
 LoanCalculator/
 │
-├── main.py         # Entry point of the program  
-├── calculator.py   # EMI calculation + schedule generation  
-└── chart.py        # Chart plot using Matplotlib
+├── main.ipynb         # Entry point of the program  
+├── calculator.ipynb   # EMI calculation + schedule generation  
+└── chart.ipynb        # Chart plot using Matplotlib
 
 ---
 
